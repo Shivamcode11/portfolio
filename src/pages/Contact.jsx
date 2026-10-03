@@ -146,7 +146,7 @@ const Contact = () => {
               </a>
 
               <a
-                href="https://www.linkedin.com/in/yuvraj-kumar-326272320"
+                href="https://www.linkedin.com/in/shivam-kumar-378844440?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
                 target="_blank"
                 rel="noreferrer"
                 className="flex items-center gap-4 bg-slate-900 p-4 rounded-xl border border-transparent hover:border-cyan-400 transition"
@@ -156,7 +156,7 @@ const Contact = () => {
               </a>
 
               <a
-                href="https://www.instagram.com/yuvrazrazputt"
+                href="https://www.instagram.com/_thakur_shivam.07"
                 target="_blank"
                 rel="noreferrer"
                 className="flex items-center gap-4 bg-slate-900 p-4 rounded-xl border border-transparent hover:border-cyan-400 transition"

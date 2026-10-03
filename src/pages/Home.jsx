@@ -33,10 +33,10 @@ const Home = () => {
           <a href="https://github.com/shivamcode007" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white text-2xl">
             <FaGithub />
           </a>
-          <a href="https://www.linkedin.com/in/yuvraj-kumar-326272320?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white text-2xl">
+          <a href="https://www.linkedin.com/in/shivam-kumar-378844440?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white text-2xl">
             <FaLinkedin />
           </a>
-           <a href="https://www.instagram.com/yuvrazrazputt?igsh=b2Q2bGNlbjYxc283" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white text-2xl">
+           <a href="https://www.instagram.com/_thakur_shivam.07?igsh=b2Q2bGNlbjYxc283" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white text-2xl">
             <FaInstagram />
           </a>
        </div>
