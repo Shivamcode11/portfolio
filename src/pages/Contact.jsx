@@ -136,7 +136,7 @@ const Contact = () => {
 
             <div className="space-y-4">
               <a
-                href="https://github.com/shivamcode007"
+                href="https://github.com/shivamcode11"
                 target="_blank"
                 rel="noreferrer"
                 className="flex items-center gap-4 bg-slate-900 p-4 rounded-xl border border-transparent hover:border-cyan-400 transition"

@@ -30,7 +30,7 @@ const Home = () => {
          Contact with me
        </p>
        <div className='flex justify-center gap-4 mt-8 flex-wrap bg-black'>
-          <a href="https://github.com/shivamcode007" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white text-2xl">
+          <a href="https://github.com/shivamcode11" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white text-2xl">
             <FaGithub />
           </a>
           <a href="https://www.linkedin.com/in/shivam-kumar-378844440?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white text-2xl">

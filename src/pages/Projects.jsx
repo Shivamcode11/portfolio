@@ -37,7 +37,7 @@ const project2 = [
     image2:
       profile,  
     tech: ["React","Node.js","Express.js","MongoDB","Tailwind CSS"],
-    github: "https://github.com/Yuvrajcode1",
+    github: "https://github.com/shivamcode11",
     live: "https://y-sathee.vercel.app/",
     features: [
       "Login & Signup",
